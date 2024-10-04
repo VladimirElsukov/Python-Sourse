@@ -1,2 +1,2 @@
-# Python-ourse
+# Python Sourse
 Повторение материала по Python
